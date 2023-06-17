@@ -1,0 +1,13 @@
+go 1.20
+
+use (
+	"./1. Tutorial/echo"
+	"./1. Tutorial/dup"
+	"./1. Tutorial/lissajous"
+	"./1. Tutorial/lissajous/lissajousFunc"
+	"./1. Tutorial/fetch"
+	"./1. Tutorial/fetchall"
+	"./1. Tutorial/server"
+	"./1. Tutorial/server2"
+	"./1. Tutorial/server3"
+)
